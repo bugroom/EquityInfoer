@@ -66,7 +66,7 @@ python3 EquityInfoer.py -key "百度" -o 0 -p 1 --json data.json
 
 
 
-3.指定目标进行搜索
+**3.指定目标进行搜索**
 
 先通过天眼查获取到目标的id,如[https://www.tianyancha.com/company/23289175](https://www.tianyancha.com/company/23289175)
 
