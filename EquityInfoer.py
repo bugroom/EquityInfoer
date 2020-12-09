@@ -262,7 +262,7 @@ def parse_args():
     return args
 
 def start_work(args):
-    # print(args)
+    print(args)
     ratio = args.percent
     cookies = args.cookies
     offset = args.offset

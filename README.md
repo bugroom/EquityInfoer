@@ -87,6 +87,17 @@ python3 EquityInfoer.py -t 23289175 -m 3
 
 
 
+**支持过滤指定股权比例资产**
+
+```
+过滤股权占比>=50%的资产
+python3 EquityInfoer.py -t 23289175 -m 3 --percent
+```
+
+![image-20201209175411656](README.assets/image-20201209175411656.png)
+
+
+
 ## TODO
 
 - [ ] cookie登录状态可以考虑增加多线程，这样可以提高很多模拟搜索功能的速度
